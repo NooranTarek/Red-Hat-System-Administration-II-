@@ -34,6 +34,11 @@ Why should you set GID in this manner instead of allowing the system to set the 
 3. Using the usermod command to add user1 and user2 to the sales secondary group, user3 and user4 to the hr secondary group. User5 and user6 to web secondary group. And add user7 to all secondary groups  
 <html></br></html>
 
+![1](https://github.com/NooranTarek/Red-Hat-System-Administration-II-/blob/main/admin2_lab2/admin2_lab2q3.png?raw=true
+)
+
+<html></br></html>
+
 4.  Login as each user and use id command to verify that they are in the appropriate groups. How else might you verify this information?
 <html></br></html>
 
