@@ -9,6 +9,7 @@
 
 1. Using the useradd command, add accounts for the following users in your system: user1, user2, user3, user4, user5, user6 and user7. Remember to give each user a password.
 <html></br></html>
+
 ![1](https://github.com/NooranTarek/Red-Hat-System-Administration-II-/blob/main/admin2_lab2/admin2_lab2q1.png?raw=true)
 <html></br></html>
 
@@ -18,6 +19,7 @@ sales			10000
 hr			10001
 web			10002
 <html></br></html>
+
 ![1](https://github.com/NooranTarek/Red-Hat-System-Administration-II-/blob/main/admin2_lab2/admin2_lab2q2.png?raw=true)
 
 <html></br></html>
