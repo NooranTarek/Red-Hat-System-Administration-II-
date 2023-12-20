@@ -9,13 +9,24 @@
 
 1. Using the useradd command, add accounts for the following users in your system: user1, user2, user3, user4, user5, user6 and user7. Remember to give each user a password.
 <html></br></html>
+![1]()
+<html></br></html>
 
 2. Using the groupadd command, add the following groups to your system.
 Group			GID
 sales			10000
 hr			10001
 web			10002
+<html></br></html>
+![1]()
+
+<html></br></html>
+
 Why should you set GID in this manner instead of allowing the system to set the GID by default?
+<html></br></html>
+-GIDs allows for a consistent and predictable naming scheme for groups.
+-helps avoid potential conflicts, especially in environments with multiple systems or when integrating with other systems.
+-avoid potential conflicts with system-assigned GIDs in the future, especially if the system automatically assigns GIDs based on the next available number.
 <html></br></html>
 
 3. Using the usermod command to add user1 and user2 to the sales secondary group, user3 and user4 to the hr secondary group. User5 and user6 to web secondary group. And add user7 to all secondary groups  
