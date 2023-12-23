@@ -42,7 +42,14 @@ Why should you set GID in this manner instead of allowing the system to set the 
 4.  Login as each user and use id command to verify that they are in the appropriate groups. How else might you verify this information?
 <html></br></html>
 
+![1](https://github.com/NooranTarek/Red-Hat-System-Administration-II-/blob/main/admin2_lab2/admin2_lab2q4.png?raw=true
+)
+<html></br></html>
+
 5. Create a directory called /depts with a sales, hr, and web directory within the /depts directory.
+<html></br></html>
+
+![1](https://github.com/NooranTarek/Red-Hat-System-Administration-II-/blob/main/admin2_lab2/admin2_lab2q5.png?raw=true)
 <html></br></html>
 
 6. Using the chgrp command, set the group ownership of each directory to the group with the matching name
